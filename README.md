@@ -44,8 +44,8 @@ This project works on docker-compose as if the server will get disconnected then
   https://www.docker.com/
     
  # Contact details:   
-   Website: http://pkshop.dx.am/
+   Website: http://pkshop.in/
    
-   linkedin: https://www.linkedin.com/in/praveen-suthar-983832185/
+   linkedin: https://www.linkedin.com/in/praveen7230/
    
    E-mail: praveensuthar7230@gmail.com
